@@ -26,5 +26,11 @@ otebooks/python_basics.ipynb - Python basics Jupyter notebook
 3. Install packages: pip install numpy pandas matplotlib seaborn jupyter
 4. Run verification: python environment_test.py
 
+## Exercise 2 – GitHub Repository Link
+The work for Exercise 2 (environment setup and Python basics) can be found here:
+
+**https://github.com/Mariem-mcs/ai-course-lab0**
+
+
 ---
 *Created for Introduction to AI course*
